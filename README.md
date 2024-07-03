@@ -75,8 +75,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or further information, you can reach me at:
 - **Name:** Geovanny Brito Casanova
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/your-profile)
+- **Email:** [geovannybricex@gmail.com](mailto:geovannybricex@gmail.com)
+- **LinkedIn:** [geovannybricex](https://www.linkedin.com/in/geovannybricex)
+- **Instagram:** [geovannybricex](https://www.instagram.com/geovannybricex/)
+- **Other Social Networks:** geovannybricex
 
 ---
 
